@@ -1,0 +1,21 @@
+run : WindowsFormsApp2.exe
+cpu : 0.00%
+ram : 73.92%
+gpu : 5.00%
+gpumem : 1181984
+time : 2021-12-21 오후 8:23:19
+
+run : WindowsFormsApp2.exe
+cpu : 1.85%
+ram : 73.92%
+gpu : 8.00%
+gpumem : 1182048
+time : 2021-12-21 오후 8:23:20
+
+run : WindowsFormsApp2.exe
+cpu : 1.46%
+ram : 73.92%
+gpu : 7.00%
+gpumem : 1182048
+time : 2021-12-21 오후 8:23:21
+
